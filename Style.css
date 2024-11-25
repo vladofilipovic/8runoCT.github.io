@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial;
+    line-height: 1.6;
+    margin: 0;
+}
+
+header {
+    background-color: #54afef;
+    color: black;
+    text-align: center;
+    padding: 22px;
+}
+
+main {
+    margin: 22px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+
